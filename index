@@ -41,8 +41,8 @@
 
     <script>
         // ★ 중요: Supabase 대시보드에서 Project URL과 anon public 키를 복사해서 아래에 붙여넣으세요!
-        const SUPABASE_URL = 'https://본인의_프로젝트_주소.supabase.co';
-        const SUPABASE_KEY = '본인의_ANON_KEY';
+        const SUPABASE_URL = 'https://tuavghijkemkdwwsrkla.supabase.co';
+        const SUPABASE_KEY = 'sb_publishable_GC4faXT6iw-FV6QSsIhfbA_u0Lpt2CI';
         
         // Supabase 초기화
         const supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
